@@ -1,9 +1,12 @@
-CoreFit Gym Availability App
-## Summary This project presents the development of a Gym Availability App. The application is designed to help users check gym occupancy, manage availability, and reduce overcrowding issues. The app is designed for fitness centers that want to simplify communication with clients, offer online booking, and maintain an interactive relationship with their members.
+## CoreFit Gym Availability App
+# Summary 
+This project presents the development of a Gym Availability App. The application is designed to help users check gym occupancy, manage availability, and reduce overcrowding issues. The app is designed for fitness centers that want to simplify communication with clients, offer online booking, and maintain an interactive relationship with their members.
 
 1. Introduction 
-# Background: Many gyms face issues of overcrowding, especially during peak hours. This causes frustration among gym members and reduces the effectiveness of workouts.
-# Purpose: The purpose of this project is to create an application that provides gym availability information to users, helping them decide the best times to visit.
+# Background: 
+Many gyms face issues of overcrowding, especially during peak hours. This causes frustration among gym members and reduces the effectiveness of workouts.
+# Purpose: 
+The purpose of this project is to create an application that provides gym availability information to users, helping them decide the best times to visit.
 # Main Goals
  * Fast user registration and login
  * Calendar for selecting appointments with coaches
